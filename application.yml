@@ -1,7 +1,7 @@
 spring:
-  application:
-    mame: USER-SERVICE
-  eureka:
+   application:
+     mame: USER-SERVICE
+eureka:
     instance:
       prefer-ip-address: true
     client:
